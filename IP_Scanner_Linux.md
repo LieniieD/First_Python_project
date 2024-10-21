@@ -40,7 +40,7 @@ Create a script that will scan an IP in different ways, as follows. Take the IP 
 
 
 ## How script is work/ Як запустити цей скрипт:
-1. Create a file with a ```.sh``` extension, for example ```ip_scanner.sh```, aste the code provided above into the file.
+1. Create a file with a ```.sh``` extension, for example ```ip_scanner_linux.sh```, aste the code provided above into the file.
 2. Make the file executable:
     
 ```bash
