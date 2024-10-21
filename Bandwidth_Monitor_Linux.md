@@ -43,7 +43,6 @@ Press ```Ctrl+C``` in the terminal to stop the script.
 
 ## What the script does:
 Monitors the network interface and logs the amount of traffic every 5 minutes.
-Compresses the log file if it exceeds 10MB to save disk space.
 
 ## Script
 
